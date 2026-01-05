@@ -1,5 +1,5 @@
 # Gaurav Marmat
-Product leader who builds
+Hi, I like to make products. :p 
 
 Director of Product at **Exceleron**, leading AI product strategy for the utilities industry.
 
@@ -22,3 +22,4 @@ Director of Product at **Exceleron**, leading AI product strategy for the utilit
 ---
 
 [LinkedIn](https://linkedin.com/in/gmarmat)
+
