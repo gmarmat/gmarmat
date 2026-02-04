@@ -1,5 +1,5 @@
 # Gaurav Marmat
-I make.
+This is where I build and keep my side projects.
 
 Director of Product at **Exceleron**, leading AI product strategy for the utilities industry.
 2 patents · 8+ years in product
@@ -17,6 +17,7 @@ Director of Product at **Exceleron**, leading AI product strategy for the utilit
 - ⚡ Next.js • FastAPI • Supabase • Claude • GPT-4
 
 [LinkedIn](https://linkedin.com/in/gmarmat)
+
 
 
 
