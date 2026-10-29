@@ -2,13 +2,11 @@
 
 Product leader working on AI products and platforms.
 
-Most of my work lives in private repositories: prototypes, everyday tools, and plenty of hobby projects. 
+- Most of my work lives in private repositories: prototypes, everyday tools, and plenty of hobby projects. 
 
-Outside of building stuff, I enjoy the product discipline: learning about it, teaching it, learning humility, and everything in between.
+- Outside of building stuff, I enjoy the product discipline: learning about it, teaching it, learning humility, and everything in between.
 
-Professionally, I've built, led, and scaled multiple B2B products (and teams) from low double-digit (M) ARR to mid triple-digit ARR. 
-
-Let's connect if you are building your own Software Factory or Platform or anything fun!
+- Professionally, I've built, led, and scaled multiple B2B products (and teams) from low double-digit (M) ARR to mid triple-digit ARR. 
 
 ## Public projects
 
@@ -20,4 +18,4 @@ Let's connect if you are building your own Software Factory or Platform or anyth
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/gmarmat)
+[LinkedIn](https://www.linkedin.com/in/gmarmat) Let's connect if you are building your own Software Factory or Platform or anything fun!
