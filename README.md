@@ -3,6 +3,8 @@
 Product leader working on AI products and platforms.
 
 Most of my work lives in private repositories: prototypes, everyday tools, and plenty of hobby projects. 
+Outside of building stuff, I enjoy the product discipline, learning about it, teaching it, and everything in between.
+Professionally, I've built, led, and scaled multiple B2B products (and teams) from low double-digit (M) ARR to mid triple-digit ARR. 
 
 ## Public projects
 
