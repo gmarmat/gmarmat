@@ -2,8 +2,6 @@
 
 Product leader working on AI products and platforms.
 
-## About the activity on this profile
-
 Most of my work lives in private repositories: prototypes, everyday tools, and plenty of hobby projects. 
 
 ## Public projects
