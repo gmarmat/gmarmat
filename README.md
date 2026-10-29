@@ -1,19 +1,19 @@
 # Gaurav Marmat
-This is where I build and keep my side projects.
 
-Director of Product at **Exceleron**, leading AI product strategy for the utilities industry.
-2 patents · 8+ years in product
+Product leader working on AI products and platforms.
 
-### 2026: good start
+## About the activity on this profile
 
-- 🎯 0→1 AI platform—6 products, full roadmaps, live customers
-- 📊 50+ VOC interviews to validate product-market fit
-- 🚀 Market entry strategy, discovery to GTM execution
+Most of my work lives in private repositories: prototypes, everyday tools, and plenty of hobby projects. 
 
-### 2025: I Built
+## Public projects
 
-- 🧠 4 AI products shipped solo, concept → production
-- 🔒 60-signal ML algorithm + 3-layer security (OWASP)
-- ⚡ Next.js • FastAPI • Supabase • Claude • GPT-4
+- [claude-project-kit](https://github.com/gmarmat/claude-project-kit): starter kit for new projects with Claude Code, with skills, templates and a setup script.
+- [claude-workspace-kit](https://github.com/gmarmat/claude-workspace-kit): sets up a multi-project workspace for Claude Code, with management skills.
+- [claude-pm-kit](https://github.com/gmarmat/claude-pm-kit): Claude Code skills that work like a peer product manager across the product lifecycle.
+- [claude-project-rehab](https://github.com/gmarmat/claude-project-rehab): assesses an existing project and writes a plan to bring it up to standard.
+- [IndianModelEval](https://github.com/gmarmat/IndianModelEval): open benchmarks for Indian language translation models.
 
-[LinkedIn](https://linkedin.com/in/gmarmat)
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/gmarmat)
